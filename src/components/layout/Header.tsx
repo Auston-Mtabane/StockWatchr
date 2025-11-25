@@ -7,7 +7,7 @@ export default function Header() {
         <div id="options">
             <ul>
                 <li className="inline-block mx-4"><a href="#">Home</a></li>
-                <li className="inline-block mx-4"><a href="#">Stocks</a></li>
+                <li className="inline-block mx-4"><a href="/dashboard">Stocks</a></li>
                 <li className="inline-block mx-4"><a href="#">About</a></li>
             </ul>
         </div>
